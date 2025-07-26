@@ -33,7 +33,7 @@ android {
         disable 'InvalidPackage'
     }
 
-    namespace 'com.mostwak.images_picker' // ✅ أضف هذا
+   
 }
 
 dependencies {
